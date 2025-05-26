@@ -1,0 +1,77 @@
+    1  cd c/K
+    2  LS
+    3  CD ..
+    4  cd ..
+    5  cd ..
+    6  ls
+    7  cd K
+    8  cd K/
+    9  Ls
+   10  cd ..
+   11  cd ..
+   12  cd K
+   13  ls
+   14  Clear
+   15  ls
+   16  cd REPOSETORY
+   17  LS
+   18  cd HW_10-main
+   19  touch text_ignore.txt
+   20  ls
+   21  nano text_ignore.txt
+   22  nano .gitignore
+   23  git status text_ignore.txt
+   24  git status
+   25  ls
+   26  git status text_ignore.txt
+   27  git status text_ignore.txt
+   28  CLEAR
+   29  gh repo clone bizzgood/HW_10gh repo clone bizzgood/HW_10
+   30  ls
+   31  cd ..
+   32  ls
+   33  https://github.com/bizzgood/HW_10.git
+   34  git clone https://github.com/bizzgood/HW_10.git
+   35  ls
+   36  cd HW_10
+   37  ls
+   38  touch text_ignore.txt
+   39  nano .gitignore
+   40  git status text_ignore.txt
+   41  git add
+   42  git add .
+   43  commit
+   44  git commit
+   45  git.config -- gloal user.email bardakov16@gmai.com
+   46  git.config -- gloal user.email bardakov16@gmai.com
+   47  git.config -- gloal user.email bardakov16@gmai.com
+   48  git config
+   49  git.config -- gloal user.email bardakov16@gmail.com
+   50  git.config -- gloal user.name "Bardakov Dmytro"
+   51  git config -- gloal user.name "Bardakov Dmytro"
+   52  git config -- global user.name "Bardakov Dmytro"
+   53  git config --global user.name "Bardakov Dmytro"
+   54  git config --global user.email "Bardakov16@gmail.com"
+   55  git commit
+   56  git commit
+   57  ls
+   58  touch main_test.txt
+   59  .git add main_test.txt
+   60  .git add
+   61  git add
+   62  git add.
+   63  git add .
+   64  git commit
+   65  git checkout develop 
+   66  git checkout -b develop 
+   67  touch develop_test.txt
+   68  git add .
+   69  git commit
+   70  nano develop_test.txt
+   71  git add .
+   72  git commit
+   73  checkout main
+   74  git checkout main
+   75  git merge develop 
+   76  git log
+   77  history>command_list.csv
